@@ -16,8 +16,8 @@ Fiz algumas modificações como acrescentar um menu inicial e um registro :writi
 
 ## :desktop_computer: Pré-requisitos
 
-Windows 10
-.NET Framework 4.6.1
+* Windows 10
+* .NET Framework 4.6.1
 
 ## :arrow_forward: Como executar o projeto
 
@@ -33,9 +33,6 @@ Um vez executado o comando acima será criado um arquivo `Program.exe` no mesmo 
 ## :pencil2: Licença
 
 Este projeto esta sobe a licença MIT.
-
-  
-
 Feito com ❤️ por Ricardo Santana
 
 
